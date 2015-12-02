@@ -1,1 +1,2 @@
-this is my first git txt.
+this is my first git record.
+this is my second git record.
